@@ -5,7 +5,7 @@ A web-based book tracking application for science fiction and dystopian literatu
 ## Features
 
 ### Book Database
-- **100 curated books** spanning classic and modern sci-fi/dystopian literature
+- **102 curated books** spanning classic and modern sci-fi/dystopian literature
 - Diverse authors from multiple languages and cultures
 - Books tagged with:
   - Genres and subgenres
@@ -76,7 +76,7 @@ Your site will be available at: `https://[username].github.io/[repo-name]/`
 ├── index.html          # Main HTML structure
 ├── styles.css          # All styling and responsive design
 ├── app.js              # JavaScript logic and recommendation engine
-├── sci-fi-books.json   # Database of 100 books
+├── sci-fi-books.json   # Database of 102 books
 └── README.md           # This file
 ```
 

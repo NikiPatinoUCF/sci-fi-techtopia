@@ -1900,6 +1900,45 @@
         "Anxiety"
       ],
       "writing_style": "Dreamlike, Kafkaesque, Anxious"
+    },
+    {
+      "id": 101,
+      "title": "Player Piano",
+      "author": "Kurt Vonnegut",
+      "language": "English",
+      "year": 1952,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Social Science Fiction",
+        "Satirical Fiction"
+      ],
+      "themes": [
+        "Automation",
+        "Technological Unemployment",
+        "Class Division",
+        "Meaning of Work"
+      ],
+      "writing_style": "Satirical, Accessible, Humanistic"
+    },
+    {
+      "id": 102,
+      "title": "Ready Player One",
+      "author": "Ernest Cline",
+      "language": "English",
+      "year": 2011,
+      "genre": "Cyberpunk",
+      "subgenres": [
+        "Virtual Reality",
+        "Adventure SF",
+        "Pop Culture"
+      ],
+      "themes": [
+        "Virtual Reality",
+        "Escapism",
+        "Gaming Culture",
+        "Corporate Control"
+      ],
+      "writing_style": "Fast-paced, Nostalgic, Pop-culture Heavy"
     }
   ]
 }
