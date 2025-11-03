@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechTopia - Sci-Fi Book Tracker</title>
+    <meta name="description" content="Track your sci-fi and dystopian reading journey. Get personalized book recommendations based on your reading preferences.">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>📚 TechTopia</h1>
+            <p class="tagline">Your Sci-Fi & Dystopian Reading Companion</p>
+        </div>
+    </header>
+
+    <nav class="nav-tabs">
+        <div class="container">
+            <button class="tab-btn active" data-tab="browse">Browse Books</button>
+            <button class="tab-btn" data-tab="recommendations">My Recommendations</button>
+            <button class="tab-btn" data-tab="stats">Reading Stats</button>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- Browse Books Tab -->
+        <section id="browse-tab" class="tab-content active">
+            <div class="filters">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="Search by title, author, or theme...">
+                </div>
+                <div class="filter-group">
+                    <label for="genre-filter">Genre:</label>
+                    <select id="genre-filter">
+                        <option value="">All Genres</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="language-filter">Language:</label>
+                    <select id="language-filter">
+                        <option value="">All Languages</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="status-filter">Reading Status:</label>
+                    <select id="status-filter">
+                        <option value="">All Books</option>
+                        <option value="read">Read</option>
+                        <option value="unread">Not Yet Read</option>
+                    </select>
+                </div>
+                <button id="clear-filters" class="btn-secondary">Clear Filters</button>
+            </div>
+
+            <div class="books-count">
+                <p>Showing <span id="books-shown">0</span> of <span id="books-total">100</span> books</p>
+            </div>
+
+            <div id="books-grid" class="books-grid">
+                <!-- Books will be dynamically loaded here -->
+            </div>
+        </section>
+
+        <!-- Recommendations Tab -->
+        <section id="recommendations-tab" class="tab-content">
+            <div class="recommendations-intro">
+                <h2>Your Personalized Recommendations</h2>
+                <p>Based on your reading history and ratings, here are books you might enjoy next.</p>
+            </div>
+
+            <div id="recommendations-content">
+                <div class="no-recommendations">
+                    <p>📖 Start rating some books to get personalized recommendations!</p>
+                    <p>Rate at least 3 books to unlock your recommendation engine.</p>
+                </div>
+            </div>
+
+            <div id="top-recommendations" style="display: none;">
+                <h3>🌟 Top 3 Recommendations For You</h3>
+                <div id="top-recs-grid" class="recommendations-grid"></div>
+
+                <h3>📚 One Shelf Over</h3>
+                <p class="shelf-over-description">A writing style match that might surprise you</p>
+                <div id="shelf-over-rec" class="recommendations-grid"></div>
+            </div>
+        </section>
+
+        <!-- Stats Tab -->
+        <section id="stats-tab" class="tab-content">
+            <div class="stats-intro">
+                <h2>Your Reading Journey</h2>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number" id="books-read-count">0</div>
+                    <div class="stat-label">Books Read</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="avg-rating">0</div>
+                    <div class="stat-label">Average Rating</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="genres-explored">0</div>
+                    <div class="stat-label">Genres Explored</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="languages-read">0</div>
+                    <div class="stat-label">Languages Read</div>
+                </div>
+            </div>
+
+            <div class="favorite-themes">
+                <h3>Your Favorite Themes</h3>
+                <div id="themes-chart"></div>
+            </div>
+
+            <div class="reading-timeline">
+                <h3>Reading by Era</h3>
+                <div id="era-chart"></div>
+            </div>
+
+            <button id="reset-data" class="btn-danger">Reset All Reading Data</button>
+        </section>
+    </main>
+
+    <!-- Book Modal -->
+    <div id="book-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 TechTopia | A celebration of sci-fi and dystopian literature</p>
+            <p class="small">All book data stored locally in your browser</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
