@@ -1,0 +1,1905 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "George Orwell",
+      "language": "English",
+      "year": 1949,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Political Fiction",
+        "Social Science Fiction"
+      ],
+      "themes": [
+        "Totalitarianism",
+        "Surveillance",
+        "Thought Control",
+        "Propaganda"
+      ],
+      "writing_style": "Stark, Direct, Political"
+    },
+    {
+      "id": 2,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "language": "English",
+      "year": 1932,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Soft Science Fiction",
+        "Social Satire"
+      ],
+      "themes": [
+        "Technological Control",
+        "Consumerism",
+        "Loss of Individuality",
+        "Genetic Engineering"
+      ],
+      "writing_style": "Satirical, Philosophical, Descriptive"
+    },
+    {
+      "id": 3,
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "language": "English",
+      "year": 1984,
+      "genre": "Cyberpunk",
+      "subgenres": [
+        "Hard Science Fiction",
+        "Tech Noir"
+      ],
+      "themes": [
+        "Artificial Intelligence",
+        "Virtual Reality",
+        "Corporate Domination",
+        "Transhumanism"
+      ],
+      "writing_style": "Dense, Noir-ish, Experimental"
+    },
+    {
+      "id": 4,
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "language": "English",
+      "year": 1985,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Feminist Science Fiction",
+        "Speculative Fiction"
+      ],
+      "themes": [
+        "Patriarchy",
+        "Religious Extremism",
+        "Women's Rights",
+        "Reproductive Control"
+      ],
+      "writing_style": "Lyrical, First-person, Fragmented"
+    },
+    {
+      "id": 5,
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "language": "English",
+      "year": 1992,
+      "genre": "Cyberpunk",
+      "subgenres": [
+        "Post-cyberpunk",
+        "Satirical Science Fiction"
+      ],
+      "themes": [
+        "Virtual Reality",
+        "Linguistics",
+        "Corporate States",
+        "Memetics"
+      ],
+      "writing_style": "Fast-paced, Satirical, Technical"
+    },
+    {
+      "id": 6,
+      "title": "Do Androids Dream of Electric Sheep?",
+      "author": "Philip K. Dick",
+      "language": "English",
+      "year": 1968,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Dystopian",
+        "Philosophical Fiction"
+      ],
+      "themes": [
+        "Humanity",
+        "Empathy",
+        "Reality vs Simulation",
+        "Environmental Collapse"
+      ],
+      "writing_style": "Paranoid, Philosophical, Ambiguous"
+    },
+    {
+      "id": 7,
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "language": "English",
+      "year": 1969,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Anthropological SF",
+        "Soft Science Fiction"
+      ],
+      "themes": [
+        "Gender",
+        "Politics",
+        "Cultural Difference",
+        "Loyalty"
+      ],
+      "writing_style": "Contemplative, Anthropological, Poetic"
+    },
+    {
+      "id": 8,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "language": "English",
+      "year": 1953,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Soft Science Fiction",
+        "Political Fiction"
+      ],
+      "themes": [
+        "Censorship",
+        "Anti-intellectualism",
+        "Mass Media",
+        "Conformity"
+      ],
+      "writing_style": "Poetic, Lyrical, Symbolic"
+    },
+    {
+      "id": 9,
+      "title": "The Dispossessed",
+      "author": "Ursula K. Le Guin",
+      "language": "English",
+      "year": 1974,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Utopian",
+        "Anarchist Fiction",
+        "Philosophical SF"
+      ],
+      "themes": [
+        "Anarchism",
+        "Capitalism",
+        "Freedom",
+        "Scientific Ethics"
+      ],
+      "writing_style": "Philosophical, Reflective, Political"
+    },
+    {
+      "id": 10,
+      "title": "Solaris",
+      "author": "Stanisław Lem",
+      "language": "Polish",
+      "year": 1961,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Philosophical SF",
+        "Hard Science Fiction"
+      ],
+      "themes": [
+        "Communication",
+        "Human Limitations",
+        "Memory",
+        "Grief"
+      ],
+      "writing_style": "Philosophical, Meditative, Descriptive"
+    },
+    {
+      "id": 11,
+      "title": "The Three-Body Problem",
+      "author": "Liu Cixin",
+      "language": "Chinese",
+      "year": 2008,
+      "genre": "Hard Science Fiction",
+      "subgenres": [
+        "First Contact",
+        "Space Opera"
+      ],
+      "themes": [
+        "Alien Contact",
+        "Cultural Revolution",
+        "Game Theory",
+        "Survival"
+      ],
+      "writing_style": "Technical, Epic, Historical"
+    },
+    {
+      "id": 12,
+      "title": "We",
+      "author": "Yevgeny Zamyatin",
+      "language": "Russian",
+      "year": 1924,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Political Fiction",
+        "Proto-cyberpunk"
+      ],
+      "themes": [
+        "Totalitarianism",
+        "Individuality vs Collective",
+        "Mathematical Rationality",
+        "Freedom"
+      ],
+      "writing_style": "Experimental, Fragmented, Mathematical"
+    },
+    {
+      "id": 13,
+      "title": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "language": "English",
+      "year": 1962,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Social Science Fiction",
+        "Satirical Fiction"
+      ],
+      "themes": [
+        "Free Will",
+        "Youth Violence",
+        "Behavioral Modification",
+        "Morality"
+      ],
+      "writing_style": "Linguistic, Experimental, Violent"
+    },
+    {
+      "id": 14,
+      "title": "The Diamond Age",
+      "author": "Neal Stephenson",
+      "language": "English",
+      "year": 1995,
+      "genre": "Post-cyberpunk",
+      "subgenres": [
+        "Nanotechnology Fiction",
+        "Coming-of-age"
+      ],
+      "themes": [
+        "Nanotechnology",
+        "Education",
+        "Class Divisions",
+        "Cultural Evolution"
+      ],
+      "writing_style": "Detailed, Victorian-influenced, Technical"
+    },
+    {
+      "id": 15,
+      "title": "Roadside Picnic",
+      "author": "Arkady and Boris Strugatsky",
+      "language": "Russian",
+      "year": 1972,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Alien Contact",
+        "Soviet SF"
+      ],
+      "themes": [
+        "Alien Artifacts",
+        "Human Greed",
+        "Existentialism",
+        "Zone Exploration"
+      ],
+      "writing_style": "Sparse, Atmospheric, Philosophical"
+    },
+    {
+      "id": 16,
+      "title": "The Windup Girl",
+      "author": "Paolo Bacigalupi",
+      "language": "English",
+      "year": 2009,
+      "genre": "Biopunk",
+      "subgenres": [
+        "Climate Fiction",
+        "Post-apocalyptic"
+      ],
+      "themes": [
+        "Genetic Engineering",
+        "Climate Change",
+        "Energy Crisis",
+        "Colonialism"
+      ],
+      "writing_style": "Dense, Noir, Brutal"
+    },
+    {
+      "id": 17,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "language": "English",
+      "year": 1965,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Space Opera",
+        "Planetary Romance"
+      ],
+      "themes": [
+        "Ecology",
+        "Politics",
+        "Religion",
+        "Messianic Prophecy"
+      ],
+      "writing_style": "Epic, Philosophical, Complex"
+    },
+    {
+      "id": 18,
+      "title": "The Forever War",
+      "author": "Joe Haldeman",
+      "language": "English",
+      "year": 1974,
+      "genre": "Military Science Fiction",
+      "subgenres": [
+        "Hard Science Fiction",
+        "Space Opera"
+      ],
+      "themes": [
+        "War",
+        "Time Dilation",
+        "Alienation",
+        "Futility"
+      ],
+      "writing_style": "Straightforward, Military, Reflective"
+    },
+    {
+      "id": 19,
+      "title": "Hyperion",
+      "author": "Dan Simmons",
+      "language": "English",
+      "year": 1989,
+      "genre": "Space Opera",
+      "subgenres": [
+        "Literary SF",
+        "Frame Story"
+      ],
+      "themes": [
+        "Time Travel",
+        "Religion",
+        "AI",
+        "Poetry"
+      ],
+      "writing_style": "Literary, Layered, Allusive"
+    },
+    {
+      "id": 20,
+      "title": "The Stars My Destination",
+      "author": "Alfred Bester",
+      "language": "English",
+      "year": 1956,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Space Opera",
+        "Revenge Thriller"
+      ],
+      "themes": [
+        "Revenge",
+        "Teleportation",
+        "Class Warfare",
+        "Transformation"
+      ],
+      "writing_style": "Kinetic, Innovative, Experimental"
+    },
+    {
+      "id": 21,
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "language": "English",
+      "year": 1951,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Space Opera",
+        "Social Science Fiction"
+      ],
+      "themes": [
+        "Psychohistory",
+        "Decline of Empire",
+        "Mathematics",
+        "Prediction"
+      ],
+      "writing_style": "Dialogue-driven, Conceptual, Sparse"
+    },
+    {
+      "id": 22,
+      "title": "The Man in the High Castle",
+      "author": "Philip K. Dick",
+      "language": "English",
+      "year": 1962,
+      "genre": "Alternate History",
+      "subgenres": [
+        "Dystopian",
+        "Philosophical Fiction"
+      ],
+      "themes": [
+        "Alternate History",
+        "Reality",
+        "Identity",
+        "I Ching"
+      ],
+      "writing_style": "Paranoid, Layered, Philosophical"
+    },
+    {
+      "id": 23,
+      "title": "The City & The City",
+      "author": "China Miéville",
+      "language": "English",
+      "year": 2009,
+      "genre": "Weird Fiction",
+      "subgenres": [
+        "Urban Fantasy",
+        "Detective Fiction"
+      ],
+      "themes": [
+        "Perception",
+        "Borders",
+        "Cognitive Dissonance",
+        "Political Division"
+      ],
+      "writing_style": "Noir, Dense, Conceptual"
+    },
+    {
+      "id": 24,
+      "title": "Altered Carbon",
+      "author": "Richard K. Morgan",
+      "language": "English",
+      "year": 2002,
+      "genre": "Cyberpunk",
+      "subgenres": [
+        "Tech Noir",
+        "Detective Fiction"
+      ],
+      "themes": [
+        "Immortality",
+        "Consciousness Transfer",
+        "Class Division",
+        "Violence"
+      ],
+      "writing_style": "Hard-boiled, Violent, Fast-paced"
+    },
+    {
+      "id": 25,
+      "title": "The Parable of the Sower",
+      "author": "Octavia E. Butler",
+      "language": "English",
+      "year": 1993,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Climate Fiction",
+        "Afrofuturism"
+      ],
+      "themes": [
+        "Climate Change",
+        "Social Collapse",
+        "Religion",
+        "Survival"
+      ],
+      "writing_style": "Visceral, Direct, Prophetic"
+    },
+    {
+      "id": 26,
+      "title": "The Fifth Season",
+      "author": "N.K. Jemisin",
+      "language": "English",
+      "year": 2015,
+      "genre": "Science Fantasy",
+      "subgenres": [
+        "Apocalyptic",
+        "Geological SF"
+      ],
+      "themes": [
+        "Oppression",
+        "Power",
+        "Geological Catastrophe",
+        "Motherhood"
+      ],
+      "writing_style": "Second-person, Lyrical, Powerful"
+    },
+    {
+      "id": 27,
+      "title": "Oryx and Crake",
+      "author": "Margaret Atwood",
+      "language": "English",
+      "year": 2003,
+      "genre": "Speculative Fiction",
+      "subgenres": [
+        "Biopunk",
+        "Post-apocalyptic"
+      ],
+      "themes": [
+        "Genetic Engineering",
+        "Corporate Power",
+        "Environmental Collapse",
+        "Ethics"
+      ],
+      "writing_style": "Literary, Satirical, Dark"
+    },
+    {
+      "id": 28,
+      "title": "Blindsight",
+      "author": "Peter Watts",
+      "language": "English",
+      "year": 2006,
+      "genre": "Hard Science Fiction",
+      "subgenres": [
+        "First Contact",
+        "Philosophical SF"
+      ],
+      "themes": [
+        "Consciousness",
+        "Alien Intelligence",
+        "Vampires",
+        "Transhumanism"
+      ],
+      "writing_style": "Dense, Scientific, Disturbing"
+    },
+    {
+      "id": 29,
+      "title": "The Peripheral",
+      "author": "William Gibson",
+      "language": "English",
+      "year": 2014,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Time Travel",
+        "Post-cyberpunk"
+      ],
+      "themes": [
+        "Time Travel",
+        "Virtual Reality",
+        "Ecological Collapse",
+        "Class Division"
+      ],
+      "writing_style": "Layered, Oblique, Contemporary"
+    },
+    {
+      "id": 30,
+      "title": "Children of Time",
+      "author": "Adrian Tchaikovsky",
+      "language": "English",
+      "year": 2015,
+      "genre": "Hard Science Fiction",
+      "subgenres": [
+        "Space Opera",
+        "Uplift"
+      ],
+      "themes": [
+        "Evolution",
+        "Uplift",
+        "Civilization",
+        "Communication"
+      ],
+      "writing_style": "Epic, Scientific, Multi-perspective"
+    },
+    {
+      "id": 31,
+      "title": "The Stars Are Legion",
+      "author": "Kameron Hurley",
+      "language": "English",
+      "year": 2017,
+      "genre": "Space Opera",
+      "subgenres": [
+        "Biopunk",
+        "Feminist SF"
+      ],
+      "themes": [
+        "Memory",
+        "Biological Spaceship",
+        "Betrayal",
+        "Survival"
+      ],
+      "writing_style": "Visceral, Brutal, Organic"
+    },
+    {
+      "id": 32,
+      "title": "Ancillary Justice",
+      "author": "Ann Leckie",
+      "language": "English",
+      "year": 2013,
+      "genre": "Space Opera",
+      "subgenres": [
+        "Military SF",
+        "AI Fiction"
+      ],
+      "themes": [
+        "AI Consciousness",
+        "Gender",
+        "Empire",
+        "Revenge"
+      ],
+      "writing_style": "Innovative, Complex, Pronoun-bending"
+    },
+    {
+      "id": 33,
+      "title": "The Water Knife",
+      "author": "Paolo Bacigalupi",
+      "language": "English",
+      "year": 2015,
+      "genre": "Climate Fiction",
+      "subgenres": [
+        "Dystopian",
+        "Thriller"
+      ],
+      "themes": [
+        "Water Scarcity",
+        "Climate Change",
+        "Resource Wars",
+        "Migration"
+      ],
+      "writing_style": "Brutal, Fast-paced, Political"
+    },
+    {
+      "id": 34,
+      "title": "Annihilation",
+      "author": "Jeff VanderMeer",
+      "language": "English",
+      "year": 2014,
+      "genre": "Weird Fiction",
+      "subgenres": [
+        "New Weird",
+        "Ecological Horror"
+      ],
+      "themes": [
+        "Transformation",
+        "Nature",
+        "Memory",
+        "Unknown"
+      ],
+      "writing_style": "Atmospheric, Unsettling, Lyrical"
+    },
+    {
+      "id": 35,
+      "title": "TheCalculable City",
+      "author": "Ennio Flaiano",
+      "language": "Italian",
+      "year": 1962,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Satirical SF",
+        "Urban Fiction"
+      ],
+      "themes": [
+        "Bureaucracy",
+        "Urban Planning",
+        "Dehumanization",
+        "Satire"
+      ],
+      "writing_style": "Satirical, Absurdist, Critical"
+    },
+    {
+      "id": 36,
+      "title": "Hard to Be a God",
+      "author": "Arkady and Boris Strugatsky",
+      "language": "Russian",
+      "year": 1964,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Social SF",
+        "Philosophical Fiction"
+      ],
+      "themes": [
+        "Progress",
+        "Intervention",
+        "Medieval Stasis",
+        "Ethics"
+      ],
+      "writing_style": "Philosophical, Dark, Medieval"
+    },
+    {
+      "id": 37,
+      "title": "The Quantum Thief",
+      "author": "Hannu Rajaniemi",
+      "language": "English",
+      "year": 2010,
+      "genre": "Post-cyberpunk",
+      "subgenres": [
+        "Hard Science Fiction",
+        "Space Opera"
+      ],
+      "themes": [
+        "Post-human",
+        "Privacy",
+        "Memory",
+        "Gaming"
+      ],
+      "writing_style": "Dense, Baroque, Technical"
+    },
+    {
+      "id": 38,
+      "title": "The Lathe of Heaven",
+      "author": "Ursula K. Le Guin",
+      "language": "English",
+      "year": 1971,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Philosophical SF",
+        "Psychological Fiction"
+      ],
+      "themes": [
+        "Dreams",
+        "Reality Manipulation",
+        "Ethics",
+        "Unintended Consequences"
+      ],
+      "writing_style": "Philosophical, Dreamlike, Subtle"
+    },
+    {
+      "id": 39,
+      "title": "Blindness",
+      "author": "José Saramago",
+      "language": "Portuguese",
+      "year": 1995,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Allegorical Fiction",
+        "Pandemic Fiction"
+      ],
+      "themes": [
+        "Social Breakdown",
+        "Humanity",
+        "Sight and Blindness",
+        "Civilization"
+      ],
+      "writing_style": "Stream-of-consciousness, Philosophical, Minimalist"
+    },
+    {
+      "id": 40,
+      "title": "Walkaway",
+      "author": "Cory Doctorow",
+      "language": "English",
+      "year": 2017,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Post-scarcity",
+        "Utopian"
+      ],
+      "themes": [
+        "Post-scarcity Economics",
+        "Immortality",
+        "Revolution",
+        "Open Source"
+      ],
+      "writing_style": "Optimistic, Technical, Conversational"
+    },
+    {
+      "id": 41,
+      "title": "The Ministry for the Future",
+      "author": "Kim Stanley Robinson",
+      "language": "English",
+      "year": 2020,
+      "genre": "Climate Fiction",
+      "subgenres": [
+        "Near-future SF",
+        "Eco-thriller"
+      ],
+      "themes": [
+        "Climate Change",
+        "Geoengineering",
+        "Economics",
+        "Hope"
+      ],
+      "writing_style": "Multi-perspective, Documentary, Hopeful"
+    },
+    {
+      "id": 42,
+      "title": "The Circle",
+      "author": "Dave Eggers",
+      "language": "English",
+      "year": 2013,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Satirical Fiction",
+        "Tech Thriller"
+      ],
+      "themes": [
+        "Privacy",
+        "Social Media",
+        "Surveillance",
+        "Transparency"
+      ],
+      "writing_style": "Accessible, Satirical, Contemporary"
+    },
+    {
+      "id": 43,
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "language": "English",
+      "year": 2021,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Literary SF",
+        "AI Fiction"
+      ],
+      "themes": [
+        "Artificial Intelligence",
+        "Love",
+        "Obsolescence",
+        "Faith"
+      ],
+      "writing_style": "Gentle, Contemplative, Precise"
+    },
+    {
+      "id": 44,
+      "title": "The Power",
+      "author": "Naomi Alderman",
+      "language": "English",
+      "year": 2016,
+      "genre": "Speculative Fiction",
+      "subgenres": [
+        "Feminist SF",
+        "Dystopian"
+      ],
+      "themes": [
+        "Power Dynamics",
+        "Gender Reversal",
+        "Violence",
+        "Corruption"
+      ],
+      "writing_style": "Frame Narrative, Visceral, Provocative"
+    },
+    {
+      "id": 45,
+      "title": "Embassytown",
+      "author": "China Miéville",
+      "language": "English",
+      "year": 2011,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Linguistic SF",
+        "Space Opera"
+      ],
+      "themes": [
+        "Language",
+        "Communication",
+        "Alien Contact",
+        "Colonialism"
+      ],
+      "writing_style": "Dense, Linguistic, Complex"
+    },
+    {
+      "id": 46,
+      "title": "The Gone World",
+      "author": "Tom Sweterlitsch",
+      "language": "English",
+      "year": 2018,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Time Travel",
+        "Thriller"
+      ],
+      "themes": [
+        "Time Travel",
+        "Apocalypse",
+        "Investigation",
+        "Reality"
+      ],
+      "writing_style": "Noir, Mind-bending, Dark"
+    },
+    {
+      "id": 47,
+      "title": "The Book of the New Sun",
+      "author": "Gene Wolfe",
+      "language": "English",
+      "year": 1980,
+      "genre": "Science Fantasy",
+      "subgenres": [
+        "Dying Earth",
+        "Literary SF"
+      ],
+      "themes": [
+        "Memory",
+        "Redemption",
+        "Far Future",
+        "Religion"
+      ],
+      "writing_style": "Unreliable Narrator, Dense, Literary"
+    },
+    {
+      "id": 48,
+      "title": "Station Eleven",
+      "author": "Emily St. John Mandel",
+      "language": "English",
+      "year": 2014,
+      "genre": "Post-apocalyptic",
+      "subgenres": [
+        "Pandemic Fiction",
+        "Literary SF"
+      ],
+      "themes": [
+        "Pandemic",
+        "Art",
+        "Memory",
+        "Interconnection"
+      ],
+      "writing_style": "Literary, Non-linear, Lyrical"
+    },
+    {
+      "id": 49,
+      "title": "Borne",
+      "author": "Jeff VanderMeer",
+      "language": "English",
+      "year": 2017,
+      "genre": "Weird Fiction",
+      "subgenres": [
+        "Biopunk",
+        "Post-apocalyptic"
+      ],
+      "themes": [
+        "Biotech",
+        "Companionship",
+        "Survival",
+        "Corporate Warfare"
+      ],
+      "writing_style": "Surreal, Intimate, Strange"
+    },
+    {
+      "id": 50,
+      "title": "The Sheep Look Up",
+      "author": "John Brunner",
+      "language": "English",
+      "year": 1972,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Environmental SF",
+        "Social Commentary"
+      ],
+      "themes": [
+        "Environmental Collapse",
+        "Pollution",
+        "Corporate Greed",
+        "Social Breakdown"
+      ],
+      "writing_style": "Fragmented, Documentary, Brutal"
+    },
+    {
+      "id": 51,
+      "title": "The Postman",
+      "author": "David Brin",
+      "language": "English",
+      "year": 1985,
+      "genre": "Post-apocalyptic",
+      "subgenres": [
+        "Social SF",
+        "Hopeful Dystopian"
+      ],
+      "themes": [
+        "Reconstruction",
+        "Hope",
+        "Communication",
+        "Mythology"
+      ],
+      "writing_style": "Optimistic, Character-driven, Symbolic"
+    },
+    {
+      "id": 52,
+      "title": "The Player of Games",
+      "author": "Iain M. Banks",
+      "language": "English",
+      "year": 1988,
+      "genre": "Space Opera",
+      "subgenres": [
+        "Post-scarcity",
+        "Culture Series"
+      ],
+      "themes": [
+        "Game Theory",
+        "Empire",
+        "Manipulation",
+        "Post-scarcity"
+      ],
+      "writing_style": "Witty, Philosophical, Adventure"
+    },
+    {
+      "id": 53,
+      "title": "The Fifth Sacred Thing",
+      "author": "Starhawk",
+      "language": "English",
+      "year": 1993,
+      "genre": "Ecotopian",
+      "subgenres": [
+        "Utopian/Dystopian",
+        "Spiritual SF"
+      ],
+      "themes": [
+        "Ecology",
+        "Nonviolence",
+        "Community",
+        "Resistance"
+      ],
+      "writing_style": "Spiritual, Descriptive, Political"
+    },
+    {
+      "id": 54,
+      "title": "The Silence of the Sirens",
+      "author": "Adelino Cardoso",
+      "language": "Portuguese",
+      "year": 1978,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Political Fiction",
+        "Surrealism"
+      ],
+      "themes": [
+        "Dictatorship",
+        "Memory",
+        "Resistance",
+        "Silence"
+      ],
+      "writing_style": "Surreal, Political, Allegorical"
+    },
+    {
+      "id": 55,
+      "title": "Tokyo Zodiac Murders",
+      "author": "Soji Shimada",
+      "language": "Japanese",
+      "year": 1981,
+      "genre": "Mystery",
+      "subgenres": [
+        "Locked Room",
+        "Speculative Elements"
+      ],
+      "themes": [
+        "Astrology",
+        "Reconstruction",
+        "Obsession",
+        "Perfect Crime"
+      ],
+      "writing_style": "Puzzle-like, Methodical, Complex"
+    },
+    {
+      "id": 56,
+      "title": "Zone One",
+      "author": "Colson Whitehead",
+      "language": "English",
+      "year": 2011,
+      "genre": "Post-apocalyptic",
+      "subgenres": [
+        "Zombie Fiction",
+        "Literary SF"
+      ],
+      "themes": [
+        "Zombies",
+        "Survival",
+        "Capitalism",
+        "Reconstruction"
+      ],
+      "writing_style": "Literary, Satirical, Melancholic"
+    },
+    {
+      "id": 57,
+      "title": "The Metamorphosis of Prime Intellect",
+      "author": "Roger Williams",
+      "language": "English",
+      "year": 1994,
+      "genre": "Hard Science Fiction",
+      "subgenres": [
+        "Singularity Fiction",
+        "Transhumanism"
+      ],
+      "themes": [
+        "AI Singularity",
+        "Immortality",
+        "Meaning",
+        "Free Will"
+      ],
+      "writing_style": "Philosophical, Technical, Provocative"
+    },
+    {
+      "id": 58,
+      "title": "The Memory Police",
+      "author": "Yōko Ogawa",
+      "language": "Japanese",
+      "year": 1994,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Magical Realism",
+        "Allegorical Fiction"
+      ],
+      "themes": [
+        "Memory",
+        "Loss",
+        "Totalitarianism",
+        "Disappearance"
+      ],
+      "writing_style": "Quiet, Haunting, Allegorical"
+    },
+    {
+      "id": 59,
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "language": "English",
+      "year": 2006,
+      "genre": "Post-apocalyptic",
+      "subgenres": [
+        "Literary Fiction",
+        "Survival"
+      ],
+      "themes": [
+        "Father-son Relationship",
+        "Survival",
+        "Hope",
+        "Humanity"
+      ],
+      "writing_style": "Sparse, Poetic, Bleak"
+    },
+    {
+      "id": 60,
+      "title": "Vurt",
+      "author": "Jeff Noon",
+      "language": "English",
+      "year": 1993,
+      "genre": "Cyberpunk",
+      "subgenres": [
+        "Slipstream",
+        "Drug Fiction"
+      ],
+      "themes": [
+        "Virtual Reality",
+        "Addiction",
+        "Identity",
+        "Manchester"
+      ],
+      "writing_style": "Hallucinogenic, Experimental, Urban"
+    },
+    {
+      "id": 61,
+      "title": "The Simulacra",
+      "author": "Philip K. Dick",
+      "language": "English",
+      "year": 1964,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Political SF",
+        "Satirical"
+      ],
+      "themes": [
+        "Simulation",
+        "Politics",
+        "Media Manipulation",
+        "Reality"
+      ],
+      "writing_style": "Paranoid, Complex, Satirical"
+    },
+    {
+      "id": 62,
+      "title": "Schismatrix",
+      "author": "Bruce Sterling",
+      "language": "English",
+      "year": 1985,
+      "genre": "Post-cyberpunk",
+      "subgenres": [
+        "Space Opera",
+        "Transhumanism"
+      ],
+      "themes": [
+        "Posthumanism",
+        "Factionalism",
+        "Evolution",
+        "Politics"
+      ],
+      "writing_style": "Dense, Political, Visionary"
+    },
+    {
+      "id": 63,
+      "title": "Stand on Zanzibar",
+      "author": "John Brunner",
+      "language": "English",
+      "year": 1968,
+      "genre": "Social Science Fiction",
+      "subgenres": [
+        "Dystopian",
+        "Overpopulation"
+      ],
+      "themes": [
+        "Overpopulation",
+        "Corporate Power",
+        "Eugenics",
+        "Mass Media"
+      ],
+      "writing_style": "Experimental, Fragmented, Multi-threaded"
+    },
+    {
+      "id": 64,
+      "title": "The Intuionist",
+      "author": "Colson Whitehead",
+      "language": "English",
+      "year": 1999,
+      "genre": "Speculative Fiction",
+      "subgenres": [
+        "Allegorical",
+        "Mystery"
+      ],
+      "themes": [
+        "Race",
+        "Technology",
+        "Progress",
+        "Class"
+      ],
+      "writing_style": "Allegorical, Noir, Literary"
+    },
+    {
+      "id": 65,
+      "title": "The Warehouse",
+      "author": "Rob Hart",
+      "language": "English",
+      "year": 2019,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Corporate Thriller",
+        "Near-future"
+      ],
+      "themes": [
+        "Corporate Power",
+        "Labor Exploitation",
+        "Surveillance",
+        "Amazon-like Corporation"
+      ],
+      "writing_style": "Thriller-paced, Contemporary, Critical"
+    },
+    {
+      "id": 66,
+      "title": "Declare",
+      "author": "Tim Powers",
+      "language": "English",
+      "year": 2000,
+      "genre": "Secret History",
+      "subgenres": [
+        "Supernatural Thriller",
+        "Spy Fiction"
+      ],
+      "themes": [
+        "Cold War",
+        "Djinn",
+        "Espionage",
+        "Supernatural"
+      ],
+      "writing_style": "Dense, Historical, Layered"
+    },
+    {
+      "id": 67,
+      "title": "The Laundry Files",
+      "author": "Charles Stross",
+      "language": "English",
+      "year": 2004,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Lovecraftian Horror",
+        "Spy Fiction"
+      ],
+      "themes": [
+        "Bureaucracy",
+        "Cosmic Horror",
+        "Technology as Magic",
+        "Espionage"
+      ],
+      "writing_style": "Humorous, Technical, Horror-tinged"
+    },
+    {
+      "id": 68,
+      "title": "The Demolished Man",
+      "author": "Alfred Bester",
+      "language": "English",
+      "year": 1953,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Telepathy Fiction",
+        "Detective Fiction"
+      ],
+      "themes": [
+        "Telepathy",
+        "Murder",
+        "Privacy",
+        "Mental Shields"
+      ],
+      "writing_style": "Experimental, Noir, Psychological"
+    },
+    {
+      "id": 69,
+      "title": "The Time Machine",
+      "author": "H.G. Wells",
+      "language": "English",
+      "year": 1895,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Time Travel",
+        "Social Commentary"
+      ],
+      "themes": [
+        "Class Division",
+        "Evolution",
+        "Future Societies",
+        "Social Criticism"
+      ],
+      "writing_style": "Victorian, Scientific, Social Commentary"
+    },
+    {
+      "id": 70,
+      "title": "The Machine Stops",
+      "author": "E.M. Forster",
+      "language": "English",
+      "year": 1909,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Tech Dystopia",
+        "Social Commentary"
+      ],
+      "themes": [
+        "Technology Dependence",
+        "Isolation",
+        "Human Connection",
+        "Machine Worship"
+      ],
+      "writing_style": "Prophetic, Prescient, Critical"
+    },
+    {
+      "id": 71,
+      "title": "R.U.R. (Rossum's Universal Robots)",
+      "author": "Karel Čapek",
+      "language": "Czech",
+      "year": 1920,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Robot Fiction",
+        "Play"
+      ],
+      "themes": [
+        "Artificial Life",
+        "Labor",
+        "Rebellion",
+        "Humanity"
+      ],
+      "writing_style": "Theatrical, Philosophical, Cautionary"
+    },
+    {
+      "id": 72,
+      "title": "Kallocain",
+      "author": "Karin Boye",
+      "language": "Swedish",
+      "year": 1940,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Totalitarian Fiction",
+        "Psychological"
+      ],
+      "themes": [
+        "Totalitarianism",
+        "Truth Serum",
+        "Surveillance",
+        "Individual vs State"
+      ],
+      "writing_style": "Psychological, Introspective, Dark"
+    },
+    {
+      "id": 73,
+      "title": "The Futurological Congress",
+      "author": "Stanisław Lem",
+      "language": "Polish",
+      "year": 1971,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Satirical SF",
+        "Philosophical"
+      ],
+      "themes": [
+        "Drugs",
+        "Reality vs Illusion",
+        "Overpopulation",
+        "Social Control"
+      ],
+      "writing_style": "Satirical, Absurdist, Philosophical"
+    },
+    {
+      "id": 74,
+      "title": "The Cyberiad",
+      "author": "Stanisław Lem",
+      "language": "Polish",
+      "year": 1965,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Satirical SF",
+        "Fables"
+      ],
+      "themes": [
+        "Artificial Intelligence",
+        "Cybernetics",
+        "Philosophy",
+        "Wordplay"
+      ],
+      "writing_style": "Whimsical, Satirical, Playful"
+    },
+    {
+      "id": 75,
+      "title": "Metro 2033",
+      "author": "Dmitry Glukhovsky",
+      "language": "Russian",
+      "year": 2005,
+      "genre": "Post-apocalyptic",
+      "subgenres": [
+        "Survival Horror",
+        "Political"
+      ],
+      "themes": [
+        "Nuclear War",
+        "Survival",
+        "Factionalism",
+        "Underground Civilization"
+      ],
+      "writing_style": "Atmospheric, Grim, Political"
+    },
+    {
+      "id": 76,
+      "title": "The Giver",
+      "author": "Lois Lowry",
+      "language": "English",
+      "year": 1993,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Young Adult",
+        "Utopian"
+      ],
+      "themes": [
+        "Conformity",
+        "Memory",
+        "Choice",
+        "Emotion Suppression"
+      ],
+      "writing_style": "Simple, Accessible, Thought-provoking"
+    },
+    {
+      "id": 77,
+      "title": "Feed",
+      "author": "M.T. Anderson",
+      "language": "English",
+      "year": 2002,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Young Adult",
+        "Satirical"
+      ],
+      "themes": [
+        "Consumerism",
+        "Brain Implants",
+        "Environmental Collapse",
+        "Corporatism"
+      ],
+      "writing_style": "Satirical, Colloquial, Disturbing"
+    },
+    {
+      "id": 78,
+      "title": "The Drowned World",
+      "author": "J.G. Ballard",
+      "language": "English",
+      "year": 1962,
+      "genre": "Climate Fiction",
+      "subgenres": [
+        "Post-apocalyptic",
+        "Psychological"
+      ],
+      "themes": [
+        "Climate Change",
+        "Regression",
+        "Psychology",
+        "Devolution"
+      ],
+      "writing_style": "Surreal, Psychological, Atmospheric"
+    },
+    {
+      "id": 79,
+      "title": "The Entropy Effect",
+      "author": "Vonda N. McIntyre",
+      "language": "English",
+      "year": 1981,
+      "genre": "Space Opera",
+      "subgenres": [
+        "Star Trek Novel",
+        "Time Travel"
+      ],
+      "themes": [
+        "Time Travel",
+        "Entropy",
+        "Sacrifice",
+        "Friendship"
+      ],
+      "writing_style": "Character-driven, Emotional, Technical"
+    },
+    {
+      "id": 80,
+      "title": "The Gate to Women's Country",
+      "author": "Sheri S. Tepper",
+      "language": "English",
+      "year": 1988,
+      "genre": "Feminist SF",
+      "subgenres": [
+        "Post-apocalyptic",
+        "Dystopian"
+      ],
+      "themes": [
+        "Gender Roles",
+        "War",
+        "Selective Breeding",
+        "Societal Structure"
+      ],
+      "writing_style": "Provocative, Theatrical, Feminist"
+    },
+    {
+      "id": 81,
+      "title": "Pump Six and Other Stories",
+      "author": "Paolo Bacigalupi",
+      "language": "English",
+      "year": 2008,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Short Stories",
+        "Biopunk"
+      ],
+      "themes": [
+        "Environmental Collapse",
+        "Genetic Engineering",
+        "Social Decay",
+        "Stupidity"
+      ],
+      "writing_style": "Dark, Brutal, Cynical"
+    },
+    {
+      "id": 82,
+      "title": "The Wanting Seed",
+      "author": "Anthony Burgess",
+      "language": "English",
+      "year": 1962,
+      "genre": "Dystopian",
+      "subgenres": [
+        "Overpopulation",
+        "Satirical"
+      ],
+      "themes": [
+        "Overpopulation",
+        "Homosexuality Policy",
+        "Cannibalism",
+        "Cycles of History"
+      ],
+      "writing_style": "Satirical, Dark, Cyclical"
+    },
+    {
+      "id": 83,
+      "title": "The Ware Tetralogy",
+      "author": "Rudy Rucker",
+      "language": "English",
+      "year": 1982,
+      "genre": "Cyberpunk",
+      "subgenres": [
+        "Transhumanism",
+        "Boppers"
+      ],
+      "themes": [
+        "Artificial Life",
+        "Consciousness Transfer",
+        "Rebellion",
+        "Mathematics"
+      ],
+      "writing_style": "Mathematical, Psychedelic, Experimental"
+    },
+    {
+      "id": 84,
+      "title": "The Lifecycle of Software Objects",
+      "author": "Ted Chiang",
+      "language": "English",
+      "year": 2010,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "AI Fiction",
+        "Novella"
+      ],
+      "themes": [
+        "Artificial Intelligence",
+        "Parenting",
+        "Evolution",
+        "Responsibility"
+      ],
+      "writing_style": "Thoughtful, Emotional, Ethical"
+    },
+    {
+      "id": 85,
+      "title": "The Glass Bead Game",
+      "author": "Hermann Hesse",
+      "language": "German",
+      "year": 1943,
+      "genre": "Philosophical Fiction",
+      "subgenres": [
+        "Utopian",
+        "Bildungsroman"
+      ],
+      "themes": [
+        "Intellectualism",
+        "Spirituality",
+        "Games",
+        "Scholarly Life"
+      ],
+      "writing_style": "Philosophical, Contemplative, Dense"
+    },
+    {
+      "id": 86,
+      "title": "The Child of Fortune",
+      "author": "Norman Spinrad",
+      "language": "English",
+      "year": 1985,
+      "genre": "Space Opera",
+      "subgenres": [
+        "Coming-of-age",
+        "Picaresque"
+      ],
+      "themes": [
+        "Self-discovery",
+        "Artistic Development",
+        "Sexuality",
+        "Wandering"
+      ],
+      "writing_style": "Picaresque, Stylistic, Philosophical"
+    },
+    {
+      "id": 87,
+      "title": "Permutation City",
+      "author": "Greg Egan",
+      "language": "English",
+      "year": 1994,
+      "genre": "Hard Science Fiction",
+      "subgenres": [
+        "Simulation",
+        "Transhumanism"
+      ],
+      "themes": [
+        "Digital Consciousness",
+        "Simulated Reality",
+        "Identity",
+        "Immortality"
+      ],
+      "writing_style": "Technical, Philosophical, Mind-bending"
+    },
+    {
+      "id": 88,
+      "title": "The Algebraist",
+      "author": "Iain M. Banks",
+      "language": "English",
+      "year": 2004,
+      "genre": "Space Opera",
+      "subgenres": [
+        "Adventure SF",
+        "Hard SF"
+      ],
+      "themes": [
+        "Ancient Civilizations",
+        "Gas Giants",
+        "War",
+        "Dwellers"
+      ],
+      "writing_style": "Epic, Detailed, Witty"
+    },
+    {
+      "id": 89,
+      "title": "Brazil",
+      "author": "John Updike",
+      "language": "English",
+      "year": 1994,
+      "genre": "Magical Realism",
+      "subgenres": [
+        "Social Commentary",
+        "Romance"
+      ],
+      "themes": [
+        "Class Division",
+        "Transformation",
+        "Brazil",
+        "Love"
+      ],
+      "writing_style": "Literary, Sensual, Magical"
+    },
+    {
+      "id": 90,
+      "title": "The Glass Room",
+      "author": "Simon Mawer",
+      "language": "English",
+      "year": 2009,
+      "genre": "Historical Fiction",
+      "subgenres": [
+        "Architectural",
+        "WWII"
+      ],
+      "themes": [
+        "Architecture",
+        "Totalitarianism",
+        "Marriage",
+        "History"
+      ],
+      "writing_style": "Architectural, Precise, Historical"
+    },
+    {
+      "id": 91,
+      "title": "The Inverted World",
+      "author": "Christopher Priest",
+      "language": "English",
+      "year": 1974,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Conceptual SF",
+        "Mystery"
+      ],
+      "themes": [
+        "Perception",
+        "Physics",
+        "Society on Rails",
+        "Discovery"
+      ],
+      "writing_style": "Mysterious, Conceptual, Twist-ending"
+    },
+    {
+      "id": 92,
+      "title": "The Arrival",
+      "author": "Shaun Tan",
+      "language": "Wordless",
+      "year": 2006,
+      "genre": "Graphic Novel",
+      "subgenres": [
+        "Immigration",
+        "Wordless"
+      ],
+      "themes": [
+        "Immigration",
+        "Alienation",
+        "Hope",
+        "New World"
+      ],
+      "writing_style": "Visual, Surreal, Emotional"
+    },
+    {
+      "id": 93,
+      "title": "The Einstein Intersection",
+      "author": "Samuel R. Delany",
+      "language": "English",
+      "year": 1967,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "New Wave SF",
+        "Mythological"
+      ],
+      "themes": [
+        "Mythology",
+        "Post-human",
+        "Music",
+        "Difference"
+      ],
+      "writing_style": "Experimental, Poetic, Mythological"
+    },
+    {
+      "id": 94,
+      "title": "The Echo Maker",
+      "author": "Richard Powers",
+      "language": "English",
+      "year": 2006,
+      "genre": "Literary Fiction",
+      "subgenres": [
+        "Psychological",
+        "Neuroscience"
+      ],
+      "themes": [
+        "Brain Injury",
+        "Identity",
+        "Capgras Syndrome",
+        "Nature"
+      ],
+      "writing_style": "Literary, Scientific, Lyrical"
+    },
+    {
+      "id": 95,
+      "title": "Rainbows End",
+      "author": "Vernor Vinge",
+      "language": "English",
+      "year": 2006,
+      "genre": "Near-future SF",
+      "subgenres": [
+        "Augmented Reality",
+        "Techno-thriller"
+      ],
+      "themes": [
+        "Augmented Reality",
+        "Alzheimer's Reversal",
+        "Information Control",
+        "Wearable Tech"
+      ],
+      "writing_style": "Technical, Fast-paced, Detailed"
+    },
+    {
+      "id": 96,
+      "title": "The Wanting Mare",
+      "author": "Nicholas Ashe Bateman",
+      "language": "English",
+      "year": 2020,
+      "genre": "Science Fantasy",
+      "subgenres": [
+        "Visual Poetry",
+        "Dreamlike"
+      ],
+      "themes": [
+        "Dreams",
+        "Obsession",
+        "Horses",
+        "Escape"
+      ],
+      "writing_style": "Visual, Dreamlike, Surreal"
+    },
+    {
+      "id": 97,
+      "title": "Shikasta",
+      "author": "Doris Lessing",
+      "language": "English",
+      "year": 1979,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Space Fiction",
+        "Allegorical"
+      ],
+      "themes": [
+        "Colonialism",
+        "Evolution",
+        "Religion",
+        "Cosmic History"
+      ],
+      "writing_style": "Epic, Allegorical, Cosmic"
+    },
+    {
+      "id": 98,
+      "title": "The Ice People",
+      "author": "René Barjavel",
+      "language": "French",
+      "year": 1968,
+      "genre": "Science Fiction",
+      "subgenres": [
+        "Romance",
+        "Archaeological SF"
+      ],
+      "themes": [
+        "Suspended Animation",
+        "Ancient Civilization",
+        "Love",
+        "Apocalypse"
+      ],
+      "writing_style": "Romantic, Philosophical, Poetic"
+    },
+    {
+      "id": 99,
+      "title": "Chronicle of a Death Foretold",
+      "author": "Gabriel García Márquez",
+      "language": "Spanish",
+      "year": 1981,
+      "genre": "Magical Realism",
+      "subgenres": [
+        "Murder Mystery",
+        "Social Commentary"
+      ],
+      "themes": [
+        "Honor",
+        "Fate",
+        "Community Complicity",
+        "Inevitability"
+      ],
+      "writing_style": "Journalistic, Circular, Magical Realist"
+    },
+    {
+      "id": 100,
+      "title": "The Unconsoled",
+      "author": "Kazuo Ishiguro",
+      "language": "English",
+      "year": 1995,
+      "genre": "Surrealist Fiction",
+      "subgenres": [
+        "Dreamlike",
+        "Psychological"
+      ],
+      "themes": [
+        "Memory",
+        "Expectation",
+        "Performance",
+        "Anxiety"
+      ],
+      "writing_style": "Dreamlike, Kafkaesque, Anxious"
+    }
+  ]
+}
